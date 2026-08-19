@@ -1,6 +1,10 @@
 {
-  "enable_ai_prompts": true,
-  "enable_premium_subscriptions": true,
-  "announcement_title": "AI Assistant Guidelines & FAQ",
-  "announcement_body": "Welcome to our AI assistant hub. All interactions comply with safety and content guidelines."
+  "enable_ai_prompts": false,
+  "enable_growth_orders": false,
+  "announcement_title": "Creator Workspace Guidelines & Safety Hub",
+  "announcement_body": "Welcome to the official creator compliance and educational portal. All tools adhere to safety guidelines.",
+  "grow_guide_title": "Social Growth & Engagement Guide",
+  "grow_guide_body": "Learn best practices for organic social media reach, audience engagement strategies, and community building standards.",
+  "ai_guide_title": "Artificial Intelligence & Content Standards",
+  "ai_guide_body": "Explore educational resources on generative AI technologies, safety protocols, and responsible digital content creation."
 }
