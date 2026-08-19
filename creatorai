@@ -1,6 +1,6 @@
 {
-  "enable_ai_prompts": true,
-  "enable_growth_orders": true,
+  "enable_ai_prompts": false,
+  "enable_growth_orders": false,
   "announcement_title": "Creator Workspace Guidelines & Safety Hub",
   "announcement_body": "Welcome to the official creator compliance and educational portal. All tools adhere to safety guidelines.",
   "grow_guide_title": "Social Growth & Engagement Guide",
