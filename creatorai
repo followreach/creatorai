@@ -1,6 +1,6 @@
 {
-  "enable_ai_prompts": true,
-  "enable_premium_subscriptions": true,
+  "enable_ai_prompts": false,
+  "enable_premium_subscriptions": false,
   "announcement_title": "AI Assistant Guidelines & FAQ",
   "announcement_body": "Welcome to our AI assistant hub. All interactions comply with safety and content guidelines."
 }
