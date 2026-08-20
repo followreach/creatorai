@@ -1,10 +1,6 @@
 {
-  "enable_ai_prompts": true,
-  "enable_growth_orders": true,
-  "announcement_title": "Creator Workspace Guidelines & Safety Hub",
-  "announcement_body": "Welcome to the official creator compliance and educational portal. All tools adhere to safety guidelines.",
-  "grow_guide_title": "Social Growth & Engagement Guide",
-  "grow_guide_body": "Learn best practices for organic social media reach, audience engagement strategies, and community building standards.",
-  "ai_guide_title": "Artificial Intelligence & Content Standards",
-  "ai_guide_body": "Explore educational resources on generative AI technologies, safety protocols, and responsible digital content creation."
+  "enable_ai_promotions": false,
+  "enable_premium_gateways": false,
+  "announcement_title": "AI Creator & Prompt Hub",
+  "announcement_body": "Earn free coins via daily rewards and ads to unlock 8 advanced AI optimization tools offline."
 }
